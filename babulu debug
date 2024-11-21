@@ -1,0 +1,7 @@
+set +
+echo " devi is a sister of babulu "
+date
+calendar
+DATE
+set -x
+sh -x babulu.sh
